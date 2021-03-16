@@ -1,0 +1,39 @@
+h1 {
+    color: yellow;
+    text-align: center;
+    font-family: 'Ranchers', cursive;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-weight: italic;
+    font-family: 'Ranchers', cursive;
+}
+
+a {
+    text-align: center;
+    font-family: 'Ranchers', cursive;
+
+}
+
+.movieimage {
+    border: 6px dashed gray;
+    width: 300px;
+    height: 200px;
+}
+
+.movieimage:hover {
+    border: 6px dashed yellow;
+}
+
+p {
+  font-size: 50px;
+  color: red;
+  font-family: 'Ranchers', cursive;
+
+}
+
+.aligncenter {
+    text-align: center;
+}
